@@ -1,0 +1,51 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="divider_margin">1dp</dimen>
+
+    <dimen name="btn_min_width">40dp</dimen>
+
+    <!-- Grid -->
+    <dimen name="grid_half">4dp</dimen>
+    <dimen name="grid1">8dp</dimen>
+    <dimen name="grid2">16dp</dimen>
+    <dimen name="grid3">24dp</dimen>
+    <dimen name="grid4">32dp</dimen>
+    <dimen name="grid5">40dp</dimen>
+    <dimen name="grid6">48dp</dimen>
+    <dimen name="grid7">56dp</dimen>
+    <dimen name="grid8">64dp</dimen>
+    <dimen name="grid9">72dp</dimen>
+    <dimen name="grid10">80dp</dimen>
+    <dimen name="grid11">88dp</dimen>
+    <dimen name="grid12">96dp</dimen>
+    <dimen name="grid13">104dp</dimen>
+    <dimen name="grid14">112dp</dimen>
+
+    <dimen name="rythm48">48dp</dimen>
+    <dimen name="rythm64">64dp</dimen>
+    <dimen name="rythm96">96dp</dimen>
+
+    <dimen name="toolbar_noelevation">0dp</dimen>
+
+    <item name="header_aspectRatio" type="fraction">178%</item>
+    <item name="headerMain_widthPercent" type="fraction">90%</item>
+    <item name="headerRecord_heightPercent" type="fraction">88%</item>
+    <item name="headerRecord_widthPercent" type="fraction">100%</item>
+    <item name="headerSide_widthPercent" type="fraction">15%</item>
+    <item name="videoDetail_widthPercent" type="fraction">100%</item>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!--Dialog Values-->
+    <dimen name="alertContentPadTop">5dp</dimen>
+    <dimen name="alertContentPadBottom">15dp</dimen>
+    <dimen name="alertContentPadLeft">19dp</dimen>
+    <dimen name="alertContentPadRight">15dp</dimen>
+    <dimen name="alertContentTextSize">18sp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="alertContentTextSizeCompact">12sp</dimen>
+
+</resources>
